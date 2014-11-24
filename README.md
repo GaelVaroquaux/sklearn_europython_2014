@@ -1,15 +1,15 @@
-EuroPython 2014 Scikit-learn Tutorial
-=======================================
+Scikit-learn Tutorial for scipy beginners
+=========================================
 
-This repository contains files and other info associated with the
-EuroPython 2014 scikit-learn tutorial.
+This repository contains files and other info for a training to data
+analysis with scikit-learn for people who are not experts in 
+
+These were originaly associated with the EuroPython 2014 scikit-learn
+tutorial.
 
 **Instructor**: Gael Varoquaux
 [@GaelVaroquaux](https://twitter.com/GaelVaroquaux) |
 http://gael-varoquaux.info
-
-**These materials are "almost" finished, but will change, before the
-training session**
 
 Installation Notes
 ------------------
@@ -25,7 +25,7 @@ downloaded and installed for free.
 Reading the training materials
 -------------------------------
 
-**Not all the material will be covered at the EuroPython training**:
+**Not all the material will be covered during the training**:
 there is not enough time available. However, you can follow the material
 by yourself.
 
