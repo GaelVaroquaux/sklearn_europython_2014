@@ -1,8 +1,8 @@
 Scikit-learn Tutorial for scipy beginners
 =========================================
 
-This repository contains files and other info for a training to data
-analysis with scikit-learn for people who are not experts in 
+This repository contains files and other info for a training on data
+analysis with scikit-learn for people who are not experts in it. 
 
 These were originaly associated with the EuroPython 2014 scikit-learn
 tutorial.
@@ -17,7 +17,7 @@ Installation Notes
 This tutorial will require recent installations of *numpy*, *scipy*,
 *matplotlib*, *scikit-learn*.
 
-For users who do not yet have these  packages installed, a relatively
+For users who do not yet have these packages installed, a relatively
 painless way to install all the requirements is to use a package such as
 [Anaconda CE](http://store.continuum.io/ "Anaconda CE"), which can be
 downloaded and installed for free.
@@ -34,7 +34,7 @@ by yourself.
 
 The recommended way to access the materials is to execute them in the
 IPython notebook. If you have the IPython notebook installed, you should
-download the materials (see below), go the the `notebooks` directory, and
+download the materials (see below), go to the `notebooks` directory, and
 type:
 
     ipython notebook
